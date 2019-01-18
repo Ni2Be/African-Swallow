@@ -1,0 +1,5 @@
+{
+    "code-runner.runInTerminal": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true
+}
